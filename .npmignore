@@ -1,0 +1,12 @@
+node_modules
+android
+coverage
+ios
+demo
+data
+__tests__
+package-lock.json
+
+.husky/
+
+README.md
