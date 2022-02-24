@@ -1,14 +1,14 @@
-# form-manager-react
+# form-handler-react
 
 ## Overview
 
    
-##### A simple lightweight form manager made in React for simple forms wich can be integrated with your css styles and fields validations.
+##### A simple lightweight form handler made in React for simple forms wich can be integrated with your css styles and fields validations.
 
 ##### Installation
 
 ```bash
-npm i form-manager-react
+npm i form-handler-react
 ```
 ### Properties
 
@@ -32,7 +32,7 @@ npm i form-manager-react
 ```tsx
 import React from 'react'
 
-import Form from 'form-manager-react'
+import Form from 'form-handler-react'
 
 const View: React.FC = () => {
   return (
