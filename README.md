@@ -75,3 +75,9 @@ const View: React.FC = () => {
 
 export default View
 ```
+
+### Tests
+#### To run tests you can use the following command:
+```
+$ npm run test
+```
